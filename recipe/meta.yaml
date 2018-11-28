@@ -1,6 +1,6 @@
 {% set name = "altgraph" %}
-{% set version = "0.15" %}
-{% set sha256 = "fc28b986a68fde8d3ff0e6d6ba3fbdd2cd562d11d45ef7c7735fbd826c9eec2e" %}
+{% set version = "0.16.1" %}
+{% set sha256 = "ddf5320017147ba7b810198e0b6619bd7b5563aa034da388cea8546b877f9b0c" %}
 
 package:
   name: {{ name|lower }}
